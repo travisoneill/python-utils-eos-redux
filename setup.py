@@ -1,8 +1,11 @@
 from setuptools import setup
 
 setup(
-    name='eos_redux_python_utils',    # This is the name of your PyPI-package.
+    name='eos_python_utils',
     version='0.0.0',
-    description='python route handling for eos-redux',                          # Update the version number for new releases
-    scripts=['helloworld']                  # The name of your scipt, and also the command you'll be using for calling it
+    description='python route handling for eos-redux',
+    author='Travis O\'Neill',
+    author_email='travis.h.oneill@gmail.com',
+    scripts=['eos_python_utils'],
+    zip_safe=False
 )
