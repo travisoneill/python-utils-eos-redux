@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='eos_python_utils',
-    version='0.0.1',
+    version='0.0.2',
     url='https://github.com/travisoneill/python-utils-eos-redux',
     description='python route handling for eos-redux',
     author='Travis Oneill',
