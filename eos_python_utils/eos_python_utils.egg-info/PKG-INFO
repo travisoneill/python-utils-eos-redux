@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: eos-python-utils
-Version: 0.0.2
+Version: 0.0.3
 Summary: python route handling for eos-redux
 Home-page: https://github.com/travisoneill/python-utils-eos-redux
 Author: Travis Oneill
